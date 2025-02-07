@@ -1,0 +1,507 @@
+home_team,away_team,home_wr,away_wr,games
+Liverpool,West Ham,1.0,0.0,2
+Liverpool,Bournemouth,1.0,0.0,1
+Liverpool,Burnley,0.0,0.5,2
+Liverpool,Crystal Palace,1.0,0.0,1
+Liverpool,Watford,1.0,0.0,1
+Liverpool,Tottenham,1.0,0.0,2
+Liverpool,Leicester,1.0,0.0,2
+Liverpool,Newcastle,1.0,0.0,1
+Liverpool,Man United,0.5,0.0,2
+Liverpool,Arsenal,1.0,0.0,2
+Liverpool,Aston Villa,1.0,0.0,1
+Liverpool,Brighton,1.0,0.0,1
+Liverpool,Everton,1.0,0.0,1
+Liverpool,Norwich,1.0,0.0,1
+Liverpool,Southampton,1.0,0.0,1
+Liverpool,Man City,1.0,0.0,1
+Liverpool,Sheffield United,1.0,0.0,2
+Liverpool,Chelsea,1.0,0.0,1
+Liverpool,Wolves,1.0,0.0,2
+Liverpool,Fulham,0.0,0.0,0
+Liverpool,West Brom,0.0,0.0,1
+Liverpool,Leeds,1.0,0.0,1
+West Ham,Liverpool,0.0,1.0,1
+West Ham,Bournemouth,1.0,0.0,1
+West Ham,Burnley,0.5,0.5,2
+West Ham,Crystal Palace,0.0,0.5,2
+West Ham,Watford,1.0,0.0,1
+West Ham,Tottenham,0.0,1.0,1
+West Ham,Leicester,0.0,1.0,1
+West Ham,Newcastle,0.0,1.0,2
+West Ham,Man United,0.5,0.5,2
+West Ham,Arsenal,0.0,1.0,1
+West Ham,Aston Villa,0.5,0.0,2
+West Ham,Brighton,0.0,0.0,2
+West Ham,Everton,0.0,0.0,1
+West Ham,Norwich,1.0,0.0,1
+West Ham,Southampton,1.0,0.0,1
+West Ham,Man City,0.0,0.5,2
+West Ham,Sheffield United,0.0,0.0,1
+West Ham,Chelsea,1.0,0.0,1
+West Ham,Wolves,0.5,0.5,2
+West Ham,Fulham,1.0,0.0,1
+West Ham,West Brom,1.0,0.0,1
+West Ham,Leeds,0.0,0.0,0
+Bournemouth,Liverpool,0.0,1.0,1
+Bournemouth,West Ham,0.0,0.0,1
+Bournemouth,Burnley,0.0,1.0,1
+Bournemouth,Crystal Palace,0.0,1.0,1
+Bournemouth,Watford,0.0,1.0,1
+Bournemouth,Tottenham,0.0,0.0,1
+Bournemouth,Leicester,1.0,0.0,1
+Bournemouth,Newcastle,0.0,1.0,1
+Bournemouth,Man United,1.0,0.0,1
+Bournemouth,Arsenal,0.0,0.0,1
+Bournemouth,Aston Villa,1.0,0.0,1
+Bournemouth,Brighton,1.0,0.0,1
+Bournemouth,Everton,1.0,0.0,1
+Bournemouth,Norwich,0.0,0.0,1
+Bournemouth,Southampton,0.0,1.0,1
+Bournemouth,Man City,0.0,1.0,1
+Bournemouth,Sheffield United,0.0,0.0,1
+Bournemouth,Chelsea,0.0,0.0,1
+Bournemouth,Wolves,0.0,1.0,1
+Bournemouth,Fulham,0.0,0.0,0
+Bournemouth,West Brom,0.0,0.0,0
+Bournemouth,Leeds,0.0,0.0,0
+Burnley,Liverpool,0.0,1.0,1
+Burnley,West Ham,1.0,0.0,1
+Burnley,Bournemouth,1.0,0.0,1
+Burnley,Crystal Palace,0.5,0.5,2
+Burnley,Watford,1.0,0.0,1
+Burnley,Tottenham,0.0,0.5,2
+Burnley,Leicester,1.0,0.0,1
+Burnley,Newcastle,1.0,0.0,1
+Burnley,Man United,0.0,1.0,2
+Burnley,Arsenal,0.0,0.0,1
+Burnley,Aston Villa,0.0,1.0,1
+Burnley,Brighton,0.0,1.0,1
+Burnley,Everton,0.5,0.0,2
+Burnley,Norwich,1.0,0.0,1
+Burnley,Southampton,0.5,0.5,2
+Burnley,Man City,0.0,1.0,1
+Burnley,Sheffield United,0.5,0.0,2
+Burnley,Chelsea,0.0,1.0,2
+Burnley,Wolves,0.5,0.0,2
+Burnley,Fulham,0.0,0.0,0
+Burnley,West Brom,0.0,0.0,0
+Burnley,Leeds,0.0,0.0,0
+Crystal Palace,Liverpool,0.0,1.0,2
+Crystal Palace,West Ham,1.0,0.0,1
+Crystal Palace,Bournemouth,1.0,0.0,1
+Crystal Palace,Burnley,0.0,1.0,1
+Crystal Palace,Watford,1.0,0.0,1
+Crystal Palace,Tottenham,0.0,0.0,2
+Crystal Palace,Leicester,0.0,0.5,2
+Crystal Palace,Newcastle,0.5,0.5,2
+Crystal Palace,Man United,0.0,1.0,1
+Crystal Palace,Arsenal,0.0,0.0,1
+Crystal Palace,Aston Villa,1.0,0.0,1
+Crystal Palace,Brighton,0.0,0.0,2
+Crystal Palace,Everton,0.0,0.5,2
+Crystal Palace,Norwich,1.0,0.0,1
+Crystal Palace,Southampton,0.5,0.5,2
+Crystal Palace,Man City,0.0,1.0,1
+Crystal Palace,Sheffield United,0.5,0.5,2
+Crystal Palace,Chelsea,0.0,1.0,1
+Crystal Palace,Wolves,0.0,0.0,1
+Crystal Palace,Fulham,0.0,0.0,0
+Crystal Palace,West Brom,0.0,0.0,0
+Crystal Palace,Leeds,1.0,0.0,1
+Watford,Liverpool,1.0,0.0,1
+Watford,West Ham,0.0,1.0,1
+Watford,Bournemouth,0.0,0.0,1
+Watford,Burnley,0.0,1.0,1
+Watford,Crystal Palace,0.0,0.0,1
+Watford,Tottenham,0.0,0.0,1
+Watford,Leicester,0.0,0.0,1
+Watford,Newcastle,1.0,0.0,1
+Watford,Man United,1.0,0.0,1
+Watford,Arsenal,0.0,0.0,1
+Watford,Aston Villa,1.0,0.0,1
+Watford,Brighton,0.0,1.0,1
+Watford,Everton,0.0,1.0,1
+Watford,Norwich,1.0,0.0,1
+Watford,Southampton,0.0,1.0,1
+Watford,Man City,0.0,1.0,1
+Watford,Sheffield United,0.0,0.0,1
+Watford,Chelsea,0.0,1.0,1
+Watford,Wolves,1.0,0.0,1
+Watford,Fulham,0.0,0.0,0
+Watford,West Brom,0.0,0.0,0
+Watford,Leeds,0.0,0.0,0
+Tottenham,Liverpool,0.0,1.0,1
+Tottenham,West Ham,0.5,0.0,2
+Tottenham,Bournemouth,1.0,0.0,1
+Tottenham,Burnley,1.0,0.0,1
+Tottenham,Crystal Palace,1.0,0.0,1
+Tottenham,Watford,0.0,0.0,1
+Tottenham,Leicester,0.5,0.5,2
+Tottenham,Newcastle,0.0,0.5,2
+Tottenham,Man United,0.0,0.0,1
+Tottenham,Arsenal,1.0,0.0,2
+Tottenham,Aston Villa,1.0,0.0,1
+Tottenham,Brighton,1.0,0.0,2
+Tottenham,Everton,0.5,0.5,2
+Tottenham,Norwich,1.0,0.0,1
+Tottenham,Southampton,1.0,0.0,1
+Tottenham,Man City,1.0,0.0,2
+Tottenham,Sheffield United,0.0,0.0,1
+Tottenham,Chelsea,0.0,1.0,1
+Tottenham,Wolves,0.0,1.0,1
+Tottenham,Fulham,0.0,0.0,1
+Tottenham,West Brom,0.0,0.0,0
+Tottenham,Leeds,1.0,0.0,1
+Leicester,Liverpool,0.0,1.0,1
+Leicester,West Ham,0.5,0.5,2
+Leicester,Bournemouth,1.0,0.0,1
+Leicester,Burnley,1.0,0.0,2
+Leicester,Crystal Palace,1.0,0.0,1
+Leicester,Watford,1.0,0.0,1
+Leicester,Tottenham,1.0,0.0,1
+Leicester,Newcastle,1.0,0.0,1
+Leicester,Man United,0.0,0.5,2
+Leicester,Arsenal,1.0,0.0,1
+Leicester,Aston Villa,0.5,0.5,2
+Leicester,Brighton,0.5,0.0,2
+Leicester,Everton,0.5,0.5,2
+Leicester,Norwich,0.0,0.0,1
+Leicester,Southampton,0.5,0.5,2
+Leicester,Man City,0.0,1.0,1
+Leicester,Sheffield United,1.0,0.0,1
+Leicester,Chelsea,0.5,0.0,2
+Leicester,Wolves,0.5,0.0,2
+Leicester,Fulham,0.0,1.0,1
+Leicester,West Brom,0.0,0.0,0
+Leicester,Leeds,0.0,0.0,0
+Newcastle,Liverpool,0.0,0.5,2
+Newcastle,West Ham,0.0,0.0,1
+Newcastle,Bournemouth,1.0,0.0,1
+Newcastle,Burnley,0.5,0.0,2
+Newcastle,Crystal Palace,1.0,0.0,1
+Newcastle,Watford,0.0,0.0,1
+Newcastle,Tottenham,0.0,1.0,1
+Newcastle,Leicester,0.0,1.0,2
+Newcastle,Man United,0.5,0.5,2
+Newcastle,Arsenal,0.0,1.0,1
+Newcastle,Aston Villa,0.0,0.0,1
+Newcastle,Brighton,0.0,0.5,2
+Newcastle,Everton,0.5,0.5,2
+Newcastle,Norwich,0.0,0.0,1
+Newcastle,Southampton,1.0,0.0,1
+Newcastle,Man City,0.0,0.0,1
+Newcastle,Sheffield United,1.0,0.0,1
+Newcastle,Chelsea,0.5,0.5,2
+Newcastle,Wolves,0.0,0.0,1
+Newcastle,Fulham,0.0,0.0,1
+Newcastle,West Brom,1.0,0.0,1
+Newcastle,Leeds,0.0,0.0,0
+Man United,Liverpool,0.0,0.0,1
+Man United,West Ham,0.0,0.0,1
+Man United,Bournemouth,1.0,0.0,1
+Man United,Burnley,0.0,1.0,1
+Man United,Crystal Palace,0.0,1.0,2
+Man United,Watford,1.0,0.0,1
+Man United,Tottenham,0.5,0.5,2
+Man United,Leicester,1.0,0.0,1
+Man United,Newcastle,1.0,0.0,1
+Man United,Arsenal,0.0,0.5,2
+Man United,Aston Villa,0.5,0.0,2
+Man United,Brighton,1.0,0.0,1
+Man United,Everton,0.0,0.0,1
+Man United,Norwich,1.0,0.0,1
+Man United,Southampton,0.0,0.0,1
+Man United,Man City,0.5,0.0,2
+Man United,Sheffield United,1.0,0.0,1
+Man United,Chelsea,0.5,0.0,2
+Man United,Wolves,0.5,0.0,2
+Man United,Fulham,0.0,0.0,0
+Man United,West Brom,1.0,0.0,1
+Man United,Leeds,1.0,0.0,1
+Arsenal,Liverpool,1.0,0.0,1
+Arsenal,West Ham,1.0,0.0,2
+Arsenal,Bournemouth,1.0,0.0,1
+Arsenal,Burnley,0.5,0.5,2
+Arsenal,Crystal Palace,0.0,0.0,2
+Arsenal,Watford,1.0,0.0,1
+Arsenal,Tottenham,0.0,0.0,1
+Arsenal,Leicester,0.0,0.5,2
+Arsenal,Newcastle,1.0,0.0,2
+Arsenal,Man United,1.0,0.0,1
+Arsenal,Aston Villa,0.5,0.5,2
+Arsenal,Brighton,0.0,1.0,1
+Arsenal,Everton,1.0,0.0,1
+Arsenal,Norwich,1.0,0.0,1
+Arsenal,Southampton,0.0,0.0,2
+Arsenal,Man City,0.0,1.0,1
+Arsenal,Sheffield United,0.5,0.0,2
+Arsenal,Chelsea,0.5,0.5,2
+Arsenal,Wolves,0.0,0.5,2
+Arsenal,Fulham,0.0,0.0,0
+Arsenal,West Brom,0.0,0.0,0
+Arsenal,Leeds,0.0,0.0,0
+Aston Villa,Liverpool,0.5,0.5,2
+Aston Villa,West Ham,0.0,0.0,1
+Aston Villa,Bournemouth,0.0,1.0,1
+Aston Villa,Burnley,0.0,0.0,2
+Aston Villa,Crystal Palace,1.0,0.0,2
+Aston Villa,Watford,1.0,0.0,1
+Aston Villa,Tottenham,0.0,1.0,1
+Aston Villa,Leicester,0.0,1.0,1
+Aston Villa,Newcastle,1.0,0.0,1
+Aston Villa,Man United,0.0,1.0,1
+Aston Villa,Arsenal,1.0,0.0,1
+Aston Villa,Brighton,0.5,0.5,2
+Aston Villa,Everton,1.0,0.0,1
+Aston Villa,Norwich,1.0,0.0,1
+Aston Villa,Southampton,0.0,1.0,2
+Aston Villa,Man City,0.0,1.0,1
+Aston Villa,Sheffield United,0.5,0.0,2
+Aston Villa,Chelsea,0.0,1.0,1
+Aston Villa,Wolves,0.0,1.0,1
+Aston Villa,Fulham,0.0,0.0,0
+Aston Villa,West Brom,0.0,0.0,0
+Aston Villa,Leeds,0.0,1.0,1
+Brighton,Liverpool,0.0,0.5,2
+Brighton,West Ham,0.0,0.0,1
+Brighton,Bournemouth,1.0,0.0,1
+Brighton,Burnley,0.0,0.0,2
+Brighton,Crystal Palace,0.0,1.0,1
+Brighton,Watford,0.0,0.0,1
+Brighton,Tottenham,1.0,0.0,1
+Brighton,Leicester,0.0,1.0,1
+Brighton,Newcastle,0.0,0.0,1
+Brighton,Man United,0.0,1.0,2
+Brighton,Arsenal,0.5,0.5,2
+Brighton,Aston Villa,0.0,0.0,1
+Brighton,Everton,1.0,0.0,1
+Brighton,Norwich,1.0,0.0,1
+Brighton,Southampton,0.0,1.0,2
+Brighton,Man City,0.0,1.0,1
+Brighton,Sheffield United,0.0,0.5,2
+Brighton,Chelsea,0.0,0.5,2
+Brighton,Wolves,0.0,0.0,2
+Brighton,Fulham,0.0,0.0,0
+Brighton,West Brom,0.0,0.0,1
+Brighton,Leeds,0.0,0.0,0
+Everton,Liverpool,0.0,0.0,2
+Everton,West Ham,0.5,0.5,2
+Everton,Bournemouth,0.0,1.0,1
+Everton,Burnley,1.0,0.0,1
+Everton,Crystal Palace,1.0,0.0,1
+Everton,Watford,1.0,0.0,1
+Everton,Tottenham,0.0,0.0,1
+Everton,Leicester,1.0,0.0,1
+Everton,Newcastle,0.0,0.0,1
+Everton,Man United,0.0,0.5,2
+Everton,Arsenal,0.5,0.0,2
+Everton,Aston Villa,0.0,0.0,1
+Everton,Brighton,1.0,0.0,2
+Everton,Norwich,0.0,1.0,1
+Everton,Southampton,0.0,0.0,1
+Everton,Man City,0.0,1.0,1
+Everton,Sheffield United,0.0,1.0,1
+Everton,Chelsea,1.0,0.0,2
+Everton,Wolves,1.0,0.0,1
+Everton,Fulham,0.0,0.0,0
+Everton,West Brom,1.0,0.0,1
+Everton,Leeds,0.0,1.0,1
+Norwich,Liverpool,0.0,1.0,1
+Norwich,West Ham,0.0,1.0,1
+Norwich,Bournemouth,1.0,0.0,1
+Norwich,Burnley,0.0,1.0,1
+Norwich,Crystal Palace,0.0,0.0,1
+Norwich,Watford,0.0,1.0,1
+Norwich,Tottenham,0.0,0.0,1
+Norwich,Leicester,1.0,0.0,1
+Norwich,Newcastle,1.0,0.0,1
+Norwich,Man United,0.0,1.0,1
+Norwich,Arsenal,0.0,0.0,1
+Norwich,Aston Villa,0.0,1.0,1
+Norwich,Brighton,0.0,1.0,1
+Norwich,Everton,0.0,1.0,1
+Norwich,Southampton,0.0,1.0,1
+Norwich,Man City,1.0,0.0,1
+Norwich,Sheffield United,0.0,1.0,1
+Norwich,Chelsea,0.0,1.0,1
+Norwich,Wolves,0.0,1.0,1
+Norwich,Fulham,0.0,0.0,0
+Norwich,West Brom,0.0,0.0,0
+Norwich,Leeds,0.0,0.0,0
+Southampton,Liverpool,0.5,0.5,2
+Southampton,West Ham,0.0,0.5,2
+Southampton,Bournemouth,0.0,1.0,1
+Southampton,Burnley,0.0,1.0,1
+Southampton,Crystal Palace,0.0,0.0,1
+Southampton,Watford,1.0,0.0,1
+Southampton,Tottenham,0.5,0.5,2
+Southampton,Leicester,0.0,1.0,1
+Southampton,Newcastle,0.5,0.5,2
+Southampton,Man United,0.0,0.5,2
+Southampton,Arsenal,0.0,1.0,1
+Southampton,Aston Villa,1.0,0.0,1
+Southampton,Brighton,0.0,0.0,1
+Southampton,Everton,0.5,0.5,2
+Southampton,Norwich,1.0,0.0,1
+Southampton,Man City,0.5,0.5,2
+Southampton,Sheffield United,1.0,0.0,2
+Southampton,Chelsea,0.0,1.0,1
+Southampton,Wolves,0.0,1.0,1
+Southampton,Fulham,0.0,0.0,0
+Southampton,West Brom,1.0,0.0,1
+Southampton,Leeds,0.0,0.0,0
+Man City,Liverpool,0.5,0.0,2
+Man City,West Ham,1.0,0.0,1
+Man City,Bournemouth,1.0,0.0,1
+Man City,Burnley,1.0,0.0,2
+Man City,Crystal Palace,0.5,0.0,2
+Man City,Watford,1.0,0.0,1
+Man City,Tottenham,0.0,0.0,1
+Man City,Leicester,0.5,0.5,2
+Man City,Newcastle,1.0,0.0,2
+Man City,Man United,0.0,1.0,1
+Man City,Arsenal,1.0,0.0,2
+Man City,Aston Villa,1.0,0.0,2
+Man City,Brighton,1.0,0.0,2
+Man City,Everton,1.0,0.0,1
+Man City,Norwich,1.0,0.0,1
+Man City,Southampton,1.0,0.0,1
+Man City,Sheffield United,1.0,0.0,1
+Man City,Chelsea,1.0,0.0,1
+Man City,Wolves,0.0,1.0,1
+Man City,Fulham,1.0,0.0,1
+Man City,West Brom,0.0,0.0,1
+Man City,Leeds,0.0,0.0,0
+Sheffield United,Liverpool,0.0,1.0,1
+Sheffield United,West Ham,0.5,0.5,2
+Sheffield United,Bournemouth,1.0,0.0,1
+Sheffield United,Burnley,1.0,0.0,1
+Sheffield United,Crystal Palace,1.0,0.0,1
+Sheffield United,Watford,0.0,0.0,1
+Sheffield United,Tottenham,0.5,0.5,2
+Sheffield United,Leicester,0.0,1.0,2
+Sheffield United,Newcastle,0.5,0.5,2
+Sheffield United,Man United,0.0,0.5,2
+Sheffield United,Arsenal,1.0,0.0,1
+Sheffield United,Aston Villa,1.0,0.0,1
+Sheffield United,Brighton,0.0,0.0,1
+Sheffield United,Everton,0.0,1.0,2
+Sheffield United,Norwich,1.0,0.0,1
+Sheffield United,Southampton,0.0,1.0,1
+Sheffield United,Man City,0.0,1.0,2
+Sheffield United,Chelsea,1.0,0.0,1
+Sheffield United,Wolves,0.5,0.5,2
+Sheffield United,Fulham,0.0,0.0,1
+Sheffield United,West Brom,0.0,0.0,0
+Sheffield United,Leeds,0.0,1.0,1
+Chelsea,Liverpool,0.0,1.0,2
+Chelsea,West Ham,0.5,0.5,2
+Chelsea,Bournemouth,0.0,1.0,1
+Chelsea,Burnley,1.0,0.0,1
+Chelsea,Crystal Palace,1.0,0.0,2
+Chelsea,Watford,1.0,0.0,1
+Chelsea,Tottenham,0.5,0.0,2
+Chelsea,Leicester,0.0,0.0,1
+Chelsea,Newcastle,1.0,0.0,1
+Chelsea,Man United,0.0,1.0,1
+Chelsea,Arsenal,0.0,0.0,1
+Chelsea,Aston Villa,0.5,0.0,2
+Chelsea,Brighton,1.0,0.0,1
+Chelsea,Everton,1.0,0.0,1
+Chelsea,Norwich,1.0,0.0,1
+Chelsea,Southampton,0.0,0.5,2
+Chelsea,Man City,0.5,0.5,2
+Chelsea,Sheffield United,0.5,0.0,2
+Chelsea,Wolves,1.0,0.0,1
+Chelsea,Fulham,0.0,0.0,0
+Chelsea,West Brom,0.0,0.0,0
+Chelsea,Leeds,1.0,0.0,1
+Wolves,Liverpool,0.0,1.0,1
+Wolves,West Ham,1.0,0.0,1
+Wolves,Bournemouth,1.0,0.0,1
+Wolves,Burnley,0.0,0.0,1
+Wolves,Crystal Palace,1.0,0.0,2
+Wolves,Watford,1.0,0.0,1
+Wolves,Tottenham,0.0,0.5,2
+Wolves,Leicester,0.0,0.0,1
+Wolves,Newcastle,0.0,0.0,2
+Wolves,Man United,0.0,0.0,1
+Wolves,Arsenal,0.0,1.0,1
+Wolves,Aston Villa,0.5,0.5,2
+Wolves,Brighton,0.0,0.0,1
+Wolves,Everton,0.5,0.5,2
+Wolves,Norwich,1.0,0.0,1
+Wolves,Southampton,0.0,0.0,2
+Wolves,Man City,0.5,0.5,2
+Wolves,Sheffield United,0.0,0.0,1
+Wolves,Chelsea,0.5,0.5,2
+Wolves,Fulham,1.0,0.0,1
+Wolves,West Brom,0.0,1.0,1
+Wolves,Leeds,0.0,0.0,0
+Fulham,Liverpool,0.0,0.0,1
+Fulham,West Ham,0.0,0.0,0
+Fulham,Bournemouth,0.0,0.0,0
+Fulham,Burnley,0.0,0.0,0
+Fulham,Crystal Palace,0.0,1.0,1
+Fulham,Watford,0.0,0.0,0
+Fulham,Tottenham,0.0,0.0,0
+Fulham,Leicester,0.0,0.0,0
+Fulham,Newcastle,0.0,0.0,0
+Fulham,Man United,0.0,1.0,1
+Fulham,Arsenal,0.0,1.0,1
+Fulham,Aston Villa,0.0,1.0,1
+Fulham,Brighton,0.0,0.0,1
+Fulham,Everton,0.0,1.0,1
+Fulham,Norwich,0.0,0.0,0
+Fulham,Southampton,0.0,0.0,1
+Fulham,Man City,0.0,0.0,0
+Fulham,Sheffield United,0.0,0.0,0
+Fulham,Chelsea,0.0,1.0,1
+Fulham,Wolves,0.0,0.0,0
+Fulham,West Brom,1.0,0.0,1
+Fulham,Leeds,0.0,0.0,0
+West Brom,Liverpool,0.0,0.0,0
+West Brom,West Ham,0.0,0.0,0
+West Brom,Bournemouth,0.0,0.0,0
+West Brom,Burnley,0.0,0.0,1
+West Brom,Crystal Palace,0.0,1.0,1
+West Brom,Watford,0.0,0.0,0
+West Brom,Tottenham,0.0,1.0,1
+West Brom,Leicester,0.0,1.0,1
+West Brom,Newcastle,0.0,0.0,0
+West Brom,Man United,0.0,0.0,0
+West Brom,Arsenal,0.0,1.0,1
+West Brom,Aston Villa,0.0,1.0,1
+West Brom,Brighton,0.0,0.0,0
+West Brom,Everton,0.0,0.0,0
+West Brom,Norwich,0.0,0.0,0
+West Brom,Southampton,0.0,0.0,0
+West Brom,Man City,0.0,0.0,0
+West Brom,Sheffield United,1.0,0.0,1
+West Brom,Chelsea,0.0,0.0,1
+West Brom,Wolves,0.0,0.0,0
+West Brom,Fulham,0.0,0.0,0
+West Brom,Leeds,0.0,1.0,1
+Leeds,Liverpool,0.0,0.0,0
+Leeds,West Ham,0.0,1.0,1
+Leeds,Bournemouth,0.0,0.0,0
+Leeds,Burnley,1.0,0.0,1
+Leeds,Crystal Palace,0.0,0.0,0
+Leeds,Watford,0.0,0.0,0
+Leeds,Tottenham,0.0,0.0,0
+Leeds,Leicester,0.0,1.0,1
+Leeds,Newcastle,1.0,0.0,1
+Leeds,Man United,0.0,0.0,0
+Leeds,Arsenal,0.0,0.0,1
+Leeds,Aston Villa,0.0,0.0,0
+Leeds,Brighton,0.0,1.0,1
+Leeds,Everton,0.0,0.0,0
+Leeds,Norwich,0.0,0.0,0
+Leeds,Southampton,0.0,0.0,0
+Leeds,Man City,0.0,0.0,1
+Leeds,Sheffield United,0.0,0.0,0
+Leeds,Chelsea,0.0,0.0,0
+Leeds,Wolves,0.0,1.0,1
+Leeds,Fulham,1.0,0.0,1
+Leeds,West Brom,0.0,0.0,0
