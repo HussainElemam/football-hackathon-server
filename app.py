@@ -9,9 +9,9 @@ app = Flask(__name__)
 # https://flask-cors.readthedocs.io/en/latest/api.html
 CORS(app, resources=["/api/*"])
 
-# @app.route('/')
-# def index():
-#     return '<p>Hello, world</p>'
+@app.route('/')
+def index():
+    return '<p>Hello, world</p><p>finally working</p>'
 
 
 @app.get('/api/match-result')
