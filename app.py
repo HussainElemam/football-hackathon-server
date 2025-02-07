@@ -14,7 +14,7 @@ def index():
     return '<p>Hello, world</p><p>finally working</p>'
 
 
-@app.get('/api/match-result')
+@app.get('/match-result')
 def get_match_result():
     home = request.args["home"]
     away = request.args["away"]
