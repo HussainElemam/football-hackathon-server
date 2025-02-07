@@ -7,7 +7,7 @@ from sklearn.linear_model import LogisticRegression
 
 app = Flask(__name__)
 # https://flask-cors.readthedocs.io/en/latest/api.html
-CORS(app, resources=["/api/*"])
+CORS(app)
 
 @app.route('/')
 def index():
