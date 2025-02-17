@@ -61,7 +61,7 @@ def get_match_result():
         "expected_outcome": outcomes[pred],
     }
 
-@app.route('/predict-player-position', methods=['GET'])
+@app.get('/predict-player-position')
 def predict_player_position():
     features_str = request.args.get("features")
 
