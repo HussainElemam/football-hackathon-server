@@ -1,4 +1,4 @@
-from flask import Flask, request, url_for
+from flask import Flask, request, url_for, jsonify
 from flask_cors import CORS
 import pandas as pd
 import numpy as np
@@ -60,6 +60,31 @@ def get_match_result():
         "draw_probability": prob[2],
         "expected_outcome": outcomes[pred],
     }
+
+@app.route('/predict-player-position', methods=['GET'])
+def predict_player_position():
+    features_str = request.args.get("features")
+
+    positions = ['DF' 'FW' 'GK' 'MF']
+
+    if not features_str:
+        return jsonify({"error": "No features provided. Please supply features as a comma-separated string."}), 400
+
+    try:
+        feature_list = [float(val) for val in features_str.split(',')]
+        features_array = np.array(feature_list).reshape(1, -1)
+    except ValueError:
+        return jsonify({"error": "Invalid feature values. Ensure all features are numbers."}), 400
+
+    model = joblib.load("static/player_position_model.pkl")
+    prediction = model.predict(features_array)
+    
+    predicted_positions = [positions[i] for i in range(len(positions)) if prediction[0][i]]
+
+    return jsonify({
+        "predicted_positions": predicted_positions,
+        "raw_prediction": prediction[0].tolist()
+    })
 
 
 if __name__ == "__main__":
