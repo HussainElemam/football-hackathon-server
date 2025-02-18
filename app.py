@@ -65,7 +65,7 @@ def get_match_result():
 def predict_player_position():
     features_str = request.args.get("features")
 
-    positions = ['DF' 'FW' 'GK' 'MF']
+    positions = ['Defender' 'Forward' 'Goalkeeper' 'Midfielder']
 
     if not features_str:
         return jsonify({"error": "No features provided. Please supply features as a comma-separated string."}), 400
