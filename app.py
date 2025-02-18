@@ -78,12 +78,14 @@ def predict_player_position():
 
     model = joblib.load("static/player_position_model_interface.pkl")
     prediction = model.predict(features_array)
+
+    raw_pred = prediction[0].tolist()
     
-    predicted_positions = [positions[i] for i in range(len(positions)) if prediction[0].tolist()[i]]
+    predicted_positions = [positions[i] for i in range(len(positions)) if raw_pred[i]]
 
     return jsonify({
         "predicted_positions": predicted_positions,
-        "raw_prediction": prediction[0].tolist()
+        "raw_prediction": raw_pred
     })
 
 
