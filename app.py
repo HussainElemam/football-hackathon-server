@@ -30,10 +30,10 @@ def get_match_result():
     away_away_wr = 0
 
     for _, row in overall_win_rates.iterrows():
-        if (row['team'] == home):
+        if row['team'] == home:
             home_home_wr = row['home']
             home_away_wr = row['away']
-        if (row['team'] == away):
+        if row['team'] == away:
             away_home_wr = row['home']
             away_away_wr = row['away']
 
@@ -41,7 +41,7 @@ def get_match_result():
     away_vs_home_wr = 0
 
     for _, row in h2h_win_rates.iterrows():
-        if (row['home_team'] == home and row['away_team'] == away):
+        if row['home_team'] == home and row['away_team'] == away:
             home_vs_away_wr = row['home_wr']
             away_vs_home_wr = row['away_wr']
     
